@@ -55,7 +55,7 @@ last_updated: "2026-09-13"
 
 ## Action Items
 
-*None assigned — content is general guidance rather than a task-driven meeting.*
+*None assigned — content is general guidance rather than a task-driven meeting...*
 
 ---
 
