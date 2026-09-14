@@ -9,7 +9,7 @@ last_updated: "2026-09-14"
 
 **Participants:** Teresita Ambrosio
 
-**Context:** *A therapist explains why workplace boundaries are hard to set and gives a practical three-step method for identifying, communicating, and maintaining them.*
+**Context:** *How to set workplace boundaries, in three steps.*
 
 ---
 
@@ -19,7 +19,7 @@ last_updated: "2026-09-14"
 - Coworkers can't read your mind, so boundaries must be explicitly communicated, not assumed.
 - **Step 1 — Identify:** Decide boundaries around availability, communication style, feedback preferences, social interactions, and calendar.
 - **Step 2 — Timing:** Set boundaries as early as possible (ideally during hiring/onboarding); it's also fine to set boundaries with yourself once something isn't working.
-- **Step 3 — Consistency:** Stick to the boundary once set — inconsistency teaches others it isn't real. Boundaries are contagious and can inspire others to set their own.
+- **Step 3 — Consistency:** Stick to the boundary once set — inconsistency teaches others it isn't real.
 
 ---
 
@@ -31,7 +31,7 @@ last_updated: "2026-09-14"
 
 ## Open Questions
 
-*None raised.*
+*No open questions were raised — this was general guidance shared by the participant, not a Q&A.*
 
 ---
 
